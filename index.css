@@ -1,0 +1,19 @@
+/* selector(s) { DECLARATION BLOCK
+  property: value or values;
+  property: value or values;
+} */
+
+body {
+  background-color: #8bc34a5e;
+  text-align: center;
+}
+
+.banner {
+  background: #ff00c18f;
+  width: 50%;
+  height: 100px;
+  margin: auto;
+  margin-bottom: 20px;
+  border: thistle 50px groove;
+  border-radius: 30px;
+}
